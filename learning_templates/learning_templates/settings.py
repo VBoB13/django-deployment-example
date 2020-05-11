@@ -26,7 +26,7 @@ SECRET_KEY = 'n!zup+_+v@$e&vfow^d=w3)vl^_aaewd*f@h4&s@vcyk^j4=(h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [vbob.pythonanywhere.com]
 
 
 # Application definition
